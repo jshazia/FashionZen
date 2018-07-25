@@ -1,7 +1,7 @@
 # FashionZen
 
 This app will allow users to create and save fashion selections in their existing wardrobe.
-improve and organize their wardrobe based of their fa
+improve and organize their wardrobe based on their fashion taste.
 
 ## Getting Started
 
